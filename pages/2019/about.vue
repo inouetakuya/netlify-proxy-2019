@@ -14,6 +14,10 @@
         top
       </nuxt-link>
 
+      <nuxt-link to="/2018/">
+        2018
+      </nuxt-link>
+
       <div class="link-to-github">
         <a
           href="https://github.com/inouetakuya/netlify-proxy-2019"
