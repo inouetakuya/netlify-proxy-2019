@@ -3,11 +3,11 @@
     <div>
       <logo />
       <h1 class="title">
-        About
+        About 2019
       </h1>
 
       <h2 class="subtitle">
-        This is about page
+        This is about page 2019
       </h2>
 
       <nuxt-link to="/2019/">
