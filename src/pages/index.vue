@@ -9,7 +9,7 @@
         My marvelous Nuxt.js project
       </h2>
 
-      <nuxt-link to="/2019/about/">
+      <nuxt-link to="/about/">
         about
       </nuxt-link>
 

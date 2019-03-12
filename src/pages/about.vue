@@ -10,7 +10,7 @@
         This is about page 2019
       </h2>
 
-      <nuxt-link to="/2019/">
+      <nuxt-link to="/">
         top
       </nuxt-link>
 

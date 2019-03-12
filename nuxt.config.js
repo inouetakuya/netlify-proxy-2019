@@ -4,6 +4,9 @@ const pkg = require('./package')
 module.exports = {
   mode: 'universal',
   srcDir: 'src/',
+  router: {
+    base: '/2019/'
+  },
 
   /*
   ** Headers of the page
@@ -53,5 +56,9 @@ module.exports = {
     extend(config, ctx) {
       
     }
+  },
+
+  generate: {
+    dir: 'dist/2019'
   }
 }
