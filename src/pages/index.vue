@@ -13,7 +13,7 @@
         about
       </nuxt-link>
 
-      <a href="https://netlify-proxy-2019.netlify.com/2018/" target="_blank">
+      <a href="https://netlify-proxy.netlify.com/2018/" target="_blank">
         2018
       </a>
 
