@@ -13,15 +13,12 @@
         about
       </nuxt-link>
 
-      <nuxt-link to="/2018/">
+      <a href="https://netlify-proxy-2019.netlify.com/2018/" target="_blank">
         2018
-      </nuxt-link>
+      </a>
 
       <div class="link-to-github">
-        <a
-          href="https://github.com/inouetakuya/netlify-proxy-2019"
-          target="_blank"
-        >
+        <a href="https://github.com/inouetakuya/netlify-proxy-2019" target="_blank">
           <img src="~/assets/images/github.svg" />
         </a>
       </div>
