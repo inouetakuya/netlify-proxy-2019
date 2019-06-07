@@ -15,6 +15,7 @@
     "nuxt": "^2.4.0"
   },
   "devDependencies": {
+    "js-yaml": "^3.13.1",
     "nodemon": "^1.18.9",
     "webpack-bundle-analyzer": "^3.3.2"
   }
